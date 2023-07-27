@@ -77,7 +77,24 @@ const class2 = [ // 600 - 700
 ]
 
 const class3 = [ // 700 - 800
-
+  data[0],
+  data[5],
+  data[9],
+  data[11],
+  data[14],
+  data[19],
+  data[21],
+  data[22],
+  data[24],
+  data[25],
+  data[29],
+  data[32],
+  data[33],
+  data[38],
+  data[39],
+  data[40],
+  data[48],
+  data[49]
 ]
 
 const class4 = [ // 800 - 900
