@@ -117,3 +117,12 @@ const class5 = [ // 900 - 1000
   data[17],
   data[46],
 ]
+
+module.exports = {
+  data,
+  class1,
+  class2,
+  class3,
+  class4,
+  class5
+}
