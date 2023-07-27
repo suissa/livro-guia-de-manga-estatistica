@@ -98,7 +98,18 @@ const class3 = [ // 700 - 800
 ]
 
 const class4 = [ // 800 - 900
-
+  data[1],
+  data[7],
+  data[8],
+  data[10],
+  data[18],
+  data[20],
+  data[23],
+  data[30],
+  data[35],
+  data[36],
+  data[37],
+  data[45]
 ]
 
 const class5 = [ // 900 - 1000
