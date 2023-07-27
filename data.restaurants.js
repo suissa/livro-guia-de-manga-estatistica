@@ -53,14 +53,14 @@ const data = [
   700
 ]
 
-class1 = [ // 500 - 600
+const class1 = [ // 500 - 600
   data[6],
   data[26],
   data[28],
   data[31],
 ]
 
-class2 = [ // 600 - 700
+const class2 = [ // 600 - 700
   data[2],
   data[3],
   data[12],
@@ -70,4 +70,12 @@ class2 = [ // 600 - 700
   data[27],
   data[34],
   data[41],
+  data[42],
+  data[43],
+  data[44],
+  data[47]
+]
+
+const class3 = [ // 700 - 800
+
 ]
