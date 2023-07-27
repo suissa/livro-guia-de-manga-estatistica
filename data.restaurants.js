@@ -79,3 +79,13 @@ const class2 = [ // 600 - 700
 const class3 = [ // 700 - 800
 
 ]
+
+const class4 = [ // 800 - 900
+
+]
+
+const class5 = [ // 900 - 1000
+  data[4],
+  data[17],
+  data[46],
+]
