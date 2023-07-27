@@ -1,0 +1,16 @@
+{
+  "name": "guia-manga-estatistica",
+  "version": "1.0.0",
+  "description": "Exercícios do livro Guia Mangá de Estatística",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Suissa",
+  "license": "WTFPL",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "expect.js": "^0.3.1",
+    "mocha": "^10.2.0"
+  }
+}
