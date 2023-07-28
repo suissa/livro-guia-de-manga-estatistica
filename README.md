@@ -6,4 +6,5 @@ Esse repositório é um resumo do livro e também armazena todas as fórmulas e 
 
 - [Capítulo 1](cap1.md)
 - [Capítulo 2](cap2.md)
+- [Capítulo 3](cap3.md)
 
