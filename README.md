@@ -177,3 +177,14 @@ Talvez pareça difícil porque há muitos números. Pode ficar mais fácil se us
 > O gráfico utilizado no livro é um histograma, não colocarei aqui.
 
 **Formar uma imagem é importante. A tabela de frequência e o histograma servem para dar uma noção geral de todos os dados.**
+
+Agora o livro fala sobre um jogo de boliche com todas as amigas da Luy, a protagonista.
+
+Equipe A
+| Jogadora | Pontuação |
+|---|---|
+| Luy-luy | 86 |
+| Jun | 86 |
+| Yumi | 86 |
+| Shizuka | 86 |
+| Kaede | 86 |
