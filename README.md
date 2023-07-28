@@ -36,7 +36,7 @@ Na ficha:
 Dados categóricos: 01 e 02.
 Dados numéricos: 03 e 04.
 
-Exercício
+## Exercício:
 
 ```md
 Determine se os dados das seguintes tabelas são categóricos ou numéricos.
@@ -53,7 +53,11 @@ Determine se os dados das seguintes tabelas são categóricos ou numéricos.
 | Sr/Sra E | A | Insatisfatório | 25 | 14.1 |
 
 
+### Resposta
 
+Tipo sanguíneo e opiniões sobre a bebida energética X são exemplos de dados categóricos.<br>
+Temperatura adequada de ar condicionado e histórico de recordes de corrida de <br>
+100m são exemplos de dados numéricos
 
 
 # Cap 2 - Compreendendo o quadro geral: a essência dos dados numéricos
