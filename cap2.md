@@ -115,7 +115,9 @@ sendo que o resultado é 36%.
 
 Talvez pareça difícil porque há muitos números. Pode ficar mais fácil se usarmos um gráfico.
 
-> O gráfico utilizado no livro é um histograma, não colocarei aqui.
+> O gráfico utilizado no livro é um histograma, nvou colocar um exemplo aqui.
+
+![Histograma](https://static.significados.com.br/foto/exemplo-histograma.png)
 
 **Formar uma imagem é importante. A tabela de frequência e o histograma servem para dar uma noção geral de todos os dados.**
 
