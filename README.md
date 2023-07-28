@@ -116,3 +116,13 @@ Tabela de preços de lámen:
 49 - 777
 50 - 700
 ```
+
+Há um shopping center gigante composto de 50 restaurantes de lámen... e somente restaurantes de lámen!
+
+```
+
+5P: 
+
+| 5 | 18 | 47 | 
+
+```
