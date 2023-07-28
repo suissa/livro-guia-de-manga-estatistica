@@ -86,7 +86,7 @@ Faça a tabulação cruzada.
 ### Resposta
 
 | Resposta | Frequência | % |
-|---|---|
+|---|---|---|
 | vencer | 2 | 20 |
 | não sei | 2 | 20 |
 | perder | 6 | 60 |
