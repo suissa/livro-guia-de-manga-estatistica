@@ -330,4 +330,8 @@ A tabela seguinte é o registro de corrida de 100m de várias meninas.
 
 ## Resumo
 
-- Para visualizar o panorama geral dos dados intuitivamente, crie uma tabela de frequência ou desenhe um histograma
+- Para visualizar o panorama geral dos dados intuitivamente, crie uma tabela de frequência ou desenhe um histograma.
+- Ao fazer uma tabela de frequência, o intervalo pode ser determinado pela Regra de Sturges.
+- Para visualizar os dados matematicamente, calcule a média artitmética, a mediana e o desvio-padrão.
+- Quando há um valor muito grande ou pequeno no conjunto de dados, é mais adequado utilizar a mediana do que a média aritmética.
+- Desvio-padrão é um índice para descrever "grau de dispersão" dos dados.
