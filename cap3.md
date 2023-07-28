@@ -1,1 +1,2 @@
 # Compreendendo o quadro geral: a essência dos dados categóricos
+

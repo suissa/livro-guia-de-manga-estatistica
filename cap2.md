@@ -327,3 +327,7 @@ A tabela seguinte é o registro de corrida de 100m de várias meninas.
 √4,04 ~= 2,01
 
 ```
+
+## Resumo
+
+- Para visualizar o panorama geral dos dados intuitivamente, crie uma tabela de frequência ou desenhe um histograma
