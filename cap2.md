@@ -294,3 +294,26 @@ Tabela dos 50 melhores restaurantes de lámen com intervalo de classe determinad
 | 845-914 | 879,5 | 10 | 0,06 |
 | 914-983 | 948,5 | 2 | 0,06 |
 | Total | | 50 | 1,00 |
+
+## Inferência estatística e Estatística descritiva
+
+A inferência estatística utiliza o método estatístico em dados amostrais e tira conclusões sobre a população de interesse, descrevendo-a ou testando hipóteses. Em outras palavras: A inferência estatística é um processo de inferir características de uma população por meio da observação de uma amostra.
+
+A estatística descritiva é a etapa inicial da análise de dados e tem por objetivo descrever os dados observados. Na sua função de descrição dos dados, esta tem as seguintes atribuições: a obtenção, organização, redução e representação dos dados estatísticos de forma a auxiliar a descrição do fenômeno observado.
+
+### Exercícios e respostas
+
+A tabela seguinte é o registro de corrida de 100m de várias meninas.
+
+| Atleta | Corrida de 100m <br>(segundos) |
+|---|---|
+| Sra. A | 16,3 |
+| Sra. B | 22,4 |
+| Sra. C | 18,5 |
+| Sra. D | 18,7 |
+| Sra. E | 20,1 |
+
+> 1. Qual é o valor médio?
+> 2. Qual é a mediana?
+> 3. Qual é o desvio padrão?
+
