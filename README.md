@@ -171,3 +171,9 @@ sendo que o resultado é 36%.
 | 700-800 | 750 | 18 | 0,36 |
 | 800-900 | 850 | 12 | 0,24 |
 | 900-1000 | 950 | 3 | 0,06 |
+
+Talvez pareça difícil porque há muitos números. Pode ficar mais fácil se usarmos um gráfico.
+
+> O gráfico utilizado no livro é um histograma, não colocarei aqui.
+
+**Formar uma imagem é importante. A tabela de frequência e o histograma servem para dar uma noção geral de todos os dados.**
