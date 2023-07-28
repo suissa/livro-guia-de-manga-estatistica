@@ -164,3 +164,10 @@ Há 18 restaurantes no terceiro piso e 50 restaurantes no total... então...
 Restaurantes com a média de 750 ienes é de 0,36. A porcentagem é obtida multiplicando a frequência por 100, 
 sendo que o resultado é 36%.
 
+| Classe (igual<br> ou maior que/<br> menor que) | Média da <br>classe | Frequência | Frequência <br>relativa
+|---|---|---|---|
+| 500-600 | 550 | 4 | 0,08 |
+| 600-700 | 650 | 13 | 0,26 |
+| 700-800 | 750 | 18 | 0,36 |
+| 800-900 | 850 | 12 | 0,24 |
+| 900-1000 | 950 | 3 | 0,06 |
