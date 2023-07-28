@@ -152,3 +152,9 @@ frequência relativa = número de valores incluídos em uma classe / número tot
 ```js
 const relative_frequency = (data_class, data_total) => data_class.length / data_total.length
 ```
+
+Há 18 restaurantes no terceiro piso e 50 restaurantes no total... então...
+
+```
+18/50 = 36/100 = 0.36
+```
