@@ -250,7 +250,7 @@ tipo de  padrão matemático - foi definido de forma subjetiva. Determinar o int
 analisando os dados.
 
 
-|Classe (igual ou <br> maior/menor que) | Ponto médio <br>da classe | Frequência | Frequência <br>relativa
+|Classe (igual ou <br> maior/menor que) | Ponto médio <br>da classe | Frequência | Frequência <br>relativa|
 |---|---|---|---|
 | 500-600 | 550 | 4 | 0,08 |
 | 600-700 | 650 | 13 | 0,26 |
@@ -280,3 +280,17 @@ Calcule o intervalo de classe usando a fórmula abaixo:
 
 (980 - 500) / 7 = 480 / 7 = 68,5714 ~= 69
 ```
+
+Tabela dos 50 melhores restaurantes de lámen com intervalo de classe determinado matematicamente
+
+
+|Classe (igual ou <br> maior/menor que) | Ponto médio <br>da classe | Frequência | Frequência <br>relativa|
+|---|---|---|---|
+| 500-569 | 534,5 | 2 | 0,08 |
+| 569-638 | 603,5 | 5 | 0,26 |
+| 638-707 | 672,5 | 15 | 0,36 |
+| 707-776 | 741,5 | 6 | 0,24 |
+| 776-845 | 810,5 | 10 | 0,06 |
+| 845-914 | 879,5 | 10 | 0,06 |
+| 914-983 | 948,5 | 2 | 0,06 |
+| Total | | 50 | 1,00 |
