@@ -39,17 +39,17 @@ Dados numéricos: 03 e 04.
 Exercício
 
 ```md
-Determine se os dados das seguintes tabelas são categóricos ou numéricos
-
-
-
-| Coluna 1 | Coluna 2 |
-|---|---|
-| Célula 1 | Célula 2 |
-| Célula 3 | Célula 4 |
-
-
+Determine se os dados das seguintes tabelas são categóricos ou numéricos.
 
 ```
+
+
+| Respondente | Tipo sanguíneo | Opinião sobre<br> a bebida <br>energética X | Temperatura <br>ideal do ar<br> condicionado (°C) | Recorde em <br>corrida de 100 <br>metros rasos <br>(segundos)
+|---|---|---|---|---|
+| Sr/Sra A | B | Insatisfatório | 25 | 14.1 |
+
+
+
+
 
 # Cap 2 - Compreendendo o quadro geral: a essência dos dados numéricos
