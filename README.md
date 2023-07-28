@@ -10,6 +10,7 @@ Podem ser de 2 tipos: qualitativo e quantitativo ou dados categóricos e dados n
 Dados categóricos são os que não são medidos com números, os que não podem ser medidos.
 Dados numéricos são aqueles que podem ser medidos, onde os intervalos entre cada graduação são iguais.
 
+
 Na ficha:
 
 ```
@@ -37,16 +38,18 @@ Dados numéricos: 03 e 04.
 
 Exercício
 
-```
+```md
 Determine se os dados das seguintes tabelas são categóricos ou numéricos
 
 
-
-```
 
 | Coluna 1 | Coluna 2 |
 |---|---|
 | Célula 1 | Célula 2 |
 | Célula 3 | Célula 4 |
+
+
+
+```
 
 # Cap 2 - Compreendendo o quadro geral: a essência dos dados numéricos
