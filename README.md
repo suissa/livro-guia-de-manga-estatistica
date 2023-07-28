@@ -147,6 +147,7 @@ O número de restaurantes em cada piso recebe o nome de frequência:
 ```
 frequência relativa = número de valores incluídos em uma classe / número total de valores
 ```
+ Em JS fica assim:
 
 ```js
 const relative_frequency = (data_class, data_total) => data_class.length / data_total.length
