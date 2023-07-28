@@ -44,8 +44,7 @@ Determine se os dados das seguintes tabelas são categóricos ou numéricos.
 ```
 
 
-| Respondente | Tipo sanguíneo | Opinião sobre<br> a bebida <br>energética X | Temperatura <br>ideal do ar<br> condicionado (°C) | Recorde em <br>corrida de 100 <br>metros rasos <br>(segundos)
-|---|---|---|---|---|
+| Respondente | Tipo sanguíneo | Opinião sobre<br> a bebida <br>energética X | Temperatura <br>ideal do ar<br> condicionado (°C) | Recorde em <br>corrida de 100 <br>metros rasos <br>(segundos),---|---|---|
 | Sr/Sra A | B | Insatisfatório | 25 | 14.1 |
 | Sr/Sra B | A | Satisfatório | 25 | 14.1 |
 | Sr/Sra C | AB | Satisfatório | 25 | 14.1 |
@@ -122,10 +121,11 @@ Há um shopping center gigante composto de 50 restaurantes de lámen... e soment
 
 ```
 
-5P: 
-
-|---|---|---|
-| 5 | 18 | 47 | 
+5P 900-800: 5, 18, 47
+4P 800-900: 2, 8, 9, 11, 19, 21, 24, 31, 36, 37, 38, 46
+3P 700-800: 1, 6, 10, 12, 15, 20, 22, 23, 25, 26, 30, 33, 39, 40, 41, 49, 50
+2P 600-700: 3, 4, 13, 14, 16, 17, 28, 35, 42, 43, 44, 45, 48
+1P 500-600: 7, 27, 29, 32
 
 ```
 
