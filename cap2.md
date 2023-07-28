@@ -271,6 +271,13 @@ Há um jeito de determinar o intervalo de classe matematicamente. Isso é feito 
 1 + log10 50 / log10 2 = 1 + 5,6438... = 6,6438 ~= 7
 ```
 
+Em JS ficou assim:
+
+```js
+const logBase = (base, number) => Math.log(number) / Math.log(base)
+const ruleOfSturges = (data) => Math.round(logBase(10, data.length) / logBase(10, 2) + 1)
+```
+
 ### Etapa 2
 
 Calcule o intervalo de classe usando a fórmula abaixo:
