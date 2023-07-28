@@ -184,7 +184,28 @@ Agora o livro fala sobre um jogo de boliche com todas as amigas da Luy, a protag
 | Jogadora | Pontuação |
 |---|---|
 | Luy-luy | 86 |
-| Jun | 86 |
-| Yumi | 86 |
-| Shizuka | 86 |
-| Kaede | 86 |
+| Jun | 73 |
+| Yumi | 124 |
+| Shizuka | 111 |
+| Touko | 90 |
+| Kaede | 38 |
+
+### Equipe B
+| Jogadora | Pontuação |
+|---|---|
+| Kimiko | 84 |
+| Megumi | 71 |
+| Yoshimi | 103 |
+| Mei | 85 |
+| Kaori | 90 |
+| Yukiko | 89 |
+
+### Equipe C
+| Jogadora | Pontuação |
+|---|---|
+| Shinobu | 229 |
+| Yuka | 77 |
+| Sakura | 59 |
+| Kanako | 95 |
+| Kumiko | 70 |
+| Hirono | 88 |
