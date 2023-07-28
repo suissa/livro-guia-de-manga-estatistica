@@ -50,3 +50,33 @@ Realizamos uma pesquisa sobre o modelo do uniforme da turma.
 | 38 | gosto |
 | 39 | indiferente |
 | 40 | gosto |
+
+Vamos fazer uma tabela para ver o quadro geral dos dados.
+
+
+| Resposta | Frequência | % |
+|---|---|---|
+| gosto | 28 | 70 |
+| indiferente | 8 | 270 |
+| não gosto | 4 | 10 |
+| TOTAL | 40 | 100 |
+
+Chamamos isso de tabulação cruzada.
+
+## Exercício
+
+Um jornal realizou uma pesquisa sobre o partido político A, que espera vencer as próximas eleições. Os resultados estão a seguir:
+
+
+| Entrevistado | Você acha que o partido A vai <br>vencer ou perder para o partido B |
+|---|---|
+| 1 | perder |
+| 2 | perder |
+| 3 | perder |
+| 4 | não sei |
+| 5 | vencer |
+| 6 | perder |
+| 7 | vencer |
+| 8 | não sei |
+| 9 | perder |
+| 10 | perder |
