@@ -1,2 +1,52 @@
 # Compreendendo o quadro geral: a essência dos dados categóricos
 
+Você se lembra que os dados categóricos que não podem ser medidos?
+
+> Existe sim uma forma de medi-los.
+
+Vamos aprender como.
+
+Realizamos uma pesquisa sobre o modelo do uniforme da turma.
+
+|  | Resposta |
+|---|---|
+| 1 | gosto |
+| 2 | indiferente |
+| 3 | gosto |
+| 4 | indiferente |
+| 5 | não gosto |
+| 6 | gosto |
+| 7 | gosto |
+| 8 | gosto |
+| 9 | gosto |
+| 10 | gosto |
+| 11 | gosto |
+| 12 | gosto |
+| 13 | indiferente |
+| 14 | gosto |
+| 15 | gosto |
+| 16 | indiferente |
+| 17 | gosto |
+| 18 | gosto |
+| 19 | gosto |
+| 20 | gosto |
+| 21 | gosto |
+| 22 | gosto |
+| 23 | não gosto |
+| 24 | indiferente |
+| 25 | gosto |
+| 26 | gosto |
+| 27 | não gosto |
+| 28 | gosto |
+| 29 | gosto |
+| 30 | gosto |
+| 31 | indiferente |
+| 32 | indiferente |
+| 33 | gosto |
+| 34 | não gosto |
+| 35 | gosto |
+| 36 | gosto |
+| 37 | gosto |
+| 38 | gosto |
+| 39 | indiferente |
+| 40 | gosto |
