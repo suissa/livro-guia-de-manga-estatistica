@@ -244,3 +244,18 @@ raiz quadrada da soma de (cada valor - média)² divididos pelo total de valores
 ```
 
 ![Fórmula do desvio-padrão](https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/desvio-padrao-matematica.jpg)
+
+
+
+|Classe (igual ou <br> maior/menor que) | Ponto médio <br>da classe | Frequência | Frequência <br>relativa
+|---|---|---|---|
+| 500-600 | 550 | 4 | 0,08 |
+| 600-700 | 650 | 13 | 0,26 |
+| 700-800 | 750 | 18 | 0,36 |
+| 800-900 | 850 | 12 | 0,24 |
+| 900-1000 | 950 | 3 | 0,06 |
+| Total | | 50 | 1,00 |
+
+
+
+O intervalo de cada classe
