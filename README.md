@@ -260,4 +260,19 @@ Equipe C
 59 - 70 - 77 - 88 - 95 - 229
 ```
 
+Se o número de valores for ímpar então pega o valor do meio, se for par pega o valor médio dos 2 números do meio.
+
 A mediana da Equipe C é (77 + 88) = 82,5
+
+```js
+const median = (data) => {
+  data.sort((a, b) => a - b);
+  const length = data.length;
+  if (length === 0) return undefined;
+  if (length % 2 === 0) {
+    return (data[length / 2] + data[length / 2 - 1]) / 2;
+  } else {
+    return data[Math.floor(length / 2)];
+  }
+};
+```
