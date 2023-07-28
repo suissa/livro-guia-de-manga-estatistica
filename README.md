@@ -44,12 +44,13 @@ Determine se os dados das seguintes tabelas são categóricos ou numéricos.
 ```
 
 
+
 | Respondente | Tipo sanguíneo | Opinião sobre<br> a bebida <br>energética X | Temperatura <br>ideal do ar<br> condicionado (°C) | Recorde em <br>corrida de 100 <br>metros rasos <br>(segundos)
-|---|---|---|
+|---|---|---|---|---|
 | Sr/Sra A | B | Insatisfatório | 25 | 14.1 |
 | Sr/Sra B | A | Satisfatório | 25 | 14.1 |
-| Sr/Sra C | AB | Satisfatório | 25 | 14.1 |
-| Sr/Sra D | O | Razoável | 25 | 14.1 |
+| Sr/Sra C | AB | atisfatório | 25 | 14.1 |
+| Sr/Sra D | O | Insatisfatório | 25 | 14.1 |
 | Sr/Sra E | A | Insatisfatório | 25 | 14.1 |
 
 
