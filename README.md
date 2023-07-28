@@ -117,12 +117,17 @@ Tabela de preços de lámen:
 50 - 700
 ```
 
+
 Há um shopping center gigante composto de 50 restaurantes de lámen... e somente restaurantes de lámen!
 
 ```
 
 5P: 
 
+|---|---|---|
 | 5 | 18 | 47 | 
 
 ```
+
+
+> Coloquei esses dados em `data.restaurants.js`
