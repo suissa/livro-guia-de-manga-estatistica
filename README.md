@@ -121,7 +121,7 @@ Há um shopping center gigante composto de 50 restaurantes de lámen... e soment
 
 ```
 
-5P 900-800: 5, 18, 47
+5P 900-1000: 5, 18, 47
 4P 800-900: 2, 8, 9, 11, 19, 21, 24, 31, 36, 37, 38, 46
 3P 700-800: 1, 6, 10, 12, 15, 20, 22, 23, 25, 26, 30, 33, 39, 40, 41, 49, 50
 2P 600-700: 3, 4, 13, 14, 16, 17, 28, 35, 42, 43, 44, 45, 48
@@ -129,5 +129,25 @@ Há um shopping center gigante composto de 50 restaurantes de lámen... e soment
 
 ```
 
-
 > Coloquei esses dados em `data.restaurants.js`
+
+Em cada piso uma placa indica o preço central da classe:
+
+```
+5p: 950
+4p: 850
+3p: 750
+2p: 650
+1p: 550
+```
+
+Isso recebe o nome de `ponto médio da classe`.
+O número de restaurantes em cada piso recebe o nome de frequência:
+
+```
+frequência relativa = número de valores incluídos em uma classe / número total de valores
+```
+
+```js
+const relative_frequency = (data_class, data_total) => data_class.length / data_total.length
+```
