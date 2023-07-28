@@ -209,3 +209,18 @@ Agora o livro fala sobre um jogo de boliche com todas as amigas da Luy, a protag
 | Kanako | 95 |
 | Kumiko | 70 |
 | Hirono | 88 |
+
+Nesse momento eles têm a ideia de calcular a média de cada equipe.
+Você calcula o valor médio dividindo o total dos pontos pelo número de integrantes da equipe.
+
+```
+Equipe A: 522/6 = 87
+Equipe B: 522/6 = 87
+Equipe C: 618/6 = 103
+```
+
+Fiz a seguinte função em js:
+
+```js
+const mean = (data) => data.reduce((a, b) => a + b, 0) / (data.length || 1)
+```
