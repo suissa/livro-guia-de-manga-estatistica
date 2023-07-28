@@ -245,6 +245,9 @@ raiz quadrada da soma de (cada valor - média)² divididos pelo total de valores
 
 ![Fórmula do desvio-padrão](https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/desvio-padrao-matematica.jpg)
 
+Como você pode ver na tabela abaixo, o intervalo da classe é 100. O intervalo não foi determinado de acordo com nenhum
+tipo de  padrão matemático - foi definido de forma subjetiva. Determinar o intervalo de classe cabe a quem está
+analisando os dados.
 
 
 |Classe (igual ou <br> maior/menor que) | Ponto médio <br>da classe | Frequência | Frequência <br>relativa
@@ -258,4 +261,22 @@ raiz quadrada da soma de (cada valor - média)² divididos pelo total de valores
 
 
 
-O intervalo de cada classe
+Há um jeito de determinar o intervalo de classe matematicamente. Isso é feito com a **Regra de Sturges**.
+
+### Etapa 1
+
+```
+1 + (log10 (número de valores) / log10 2)
+
+1 + log10 50 / log10 2 = 1 + 5,6438... = 6,6438 ~= 7
+```
+
+### Etapa 2
+
+Calcule o intervalo de classe usando a fórmula abaixo:
+
+```
+(valor mínimo - valor máximo) / número de classes calculado com a Regra de Sturges
+
+(980 - 500) / 7 = 480 / 7 = 68,5714 ~= 69
+```
