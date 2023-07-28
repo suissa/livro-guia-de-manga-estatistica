@@ -44,7 +44,8 @@ Determine se os dados das seguintes tabelas são categóricos ou numéricos.
 ```
 
 
-| Respondente | Tipo sanguíneo | Opinião sobre<br> a bebida <br>energética X | Temperatura <br>ideal do ar<br> condicionado (°C) | Recorde em <br>corrida de 100 <br>metros rasos <br>(segundos),---|---|---|
+| Respondente | Tipo sanguíneo | Opinião sobre<br> a bebida <br>energética X | Temperatura <br>ideal do ar<br> condicionado (°C) | Recorde em <br>corrida de 100 <br>metros rasos <br>(segundos)
+|---|---|---|
 | Sr/Sra A | B | Insatisfatório | 25 | 14.1 |
 | Sr/Sra B | A | Satisfatório | 25 | 14.1 |
 | Sr/Sra C | AB | Satisfatório | 25 | 14.1 |
@@ -158,3 +159,7 @@ Há 18 restaurantes no terceiro piso e 50 restaurantes no total... então...
 ```
 18/50 = 36/100 = 0.36
 ```
+
+Restaurantes com a média de 750 ienes é de 0,36. A porcentagem é obtida multiplicando a frequência por 100, 
+sendo que o resultado é 36%.
+
