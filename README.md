@@ -224,3 +224,25 @@ Fiz a seguinte função em js:
 ```js
 const mean = (data) => data.reduce((a, b) => a + b, 0) / (data.length || 1)
 ```
+
+Onde o `data.reduce` faz a soma e divide pelo `length` do *array*, mas se for `0`` então divide por `1`.
+
+O valor médio é chamado de média estatística. E a média em questão agora é o que chamamos de média aritmética.
+
+Também existe a média geométrica e média harmônica.
+
+> Média geométrica = raiz enésima da multiplicação dos valores
+
+![Média geométrica](https://blog.professorferretto.com.br/wp-content/uploads/2019/05/formula-da-media-geometrica.png)
+
+```js
+const geometricAverage = (data) => Math.pow(data.reduce((a, b) => a * b), 1 / data.length)
+```
+
+> Média harmônica = 1 dividido ( (1/x1 + 1/x2 + ... + 1/xn) / n )
+
+![Média harmônica](https://pt-static.z-dn.net/files/dc5/5fec6ffa9a7b05f02ee0ec4cc0cf5652.png)
+
+```js
+const harmonicAverage = (data) => data.length / data.reduce((a, b) => a + 1 / b, 0)
+```
