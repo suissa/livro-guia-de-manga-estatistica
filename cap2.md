@@ -229,6 +229,18 @@ Exemplo:
 13 = 13/2 = 6.5 = 6 => (0, 1, 2, 3, 4, 5, |6|, 7, 8, 9, 10, 11, 12)
 ```
 
-## Desvio padrão
+## Desvio-padrão
 
-O desvio padrão é um indicador que mostra a diferença da média de cada valor nesse conjunto.
+O desvio-padrão é um indicador que mostra a diferença da média de cada valor nesse conjunto. 
+O desvio-padrão mínimo é 0 e na medida que a "dispersão de dados" aumenta, o mesmo ocorre com o desvio-padrão.
+
+![Desvio-padrão gráfico](https://proeducacional.com/packages/uploads/2020/08/img_5f2ae87aaa0c2.png)
+
+A fómula é a seguinte:
+
+```
+raiz quadrada da soma de (cada valor - média)²
+√∑(xi - x̅)²/n
+```
+
+![Fórmula do desvio-padrão](https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/desvio-padrao-matematica.jpg)
