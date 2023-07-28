@@ -1,0 +1,1 @@
+# Valor-padrão e valor do desvio
