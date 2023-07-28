@@ -239,7 +239,7 @@ O desvio-padrão mínimo é 0 e na medida que a "dispersão de dados" aumenta, o
 A fómula é a seguinte:
 
 ```
-raiz quadrada da soma de (cada valor - média)²
+raiz quadrada da soma de (cada valor - média)² divididos pelo total de valores
 √∑(xi - x̅)²/n
 ```
 
