@@ -57,7 +57,7 @@ Determine se os dados das seguintes tabelas são categóricos ou numéricos.
 
 Tipo sanguíneo e opiniões sobre a bebida energética X são exemplos de dados categóricos.<br>
 Temperatura adequada de ar condicionado e histórico de recordes de corrida de <br>
-100m são exemplos de dados numéricos
+100m são exemplos de dados numéricos.
 
 
 # Cap 2 - Compreendendo o quadro geral: a essência dos dados numéricos
