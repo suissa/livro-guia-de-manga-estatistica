@@ -259,3 +259,5 @@ Equipe B
 Equipe C
 59 - 70 - 77 - 88 - 95 - 229
 ```
+
+A mediana da Equipe C é (77 + 88) = 82,5
