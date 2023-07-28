@@ -180,7 +180,7 @@ Talvez pareça difícil porque há muitos números. Pode ficar mais fácil se us
 
 Agora o livro fala sobre um jogo de boliche com todas as amigas da Luy, a protagonista.
 
-Equipe A
+### Equipe A
 | Jogadora | Pontuação |
 |---|---|
 | Luy-luy | 86 |
