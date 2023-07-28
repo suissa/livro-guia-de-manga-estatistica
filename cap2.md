@@ -166,7 +166,7 @@ Fiz a seguinte função em js:
 const mean = (data) => data.reduce((a, b) => a + b, 0) / (data.length || 1)
 ```
 
-Onde o `data.reduce` faz a soma e divide pelo `length` do *array*, mas se for `0`` então divide por `1`.
+Onde o `data.reduce` faz a soma e divide pelo `length` do *array*, mas se for `0 então divide por 1`.
 
 O valor médio é chamado de média estatística. E a média em questão agora é o que chamamos de média aritmética.
 
