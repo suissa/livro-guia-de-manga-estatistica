@@ -81,9 +81,13 @@ Em cada piso uma placa indica o preço central da classe:
 ```
 
 Isso recebe o nome de `ponto médio da classe`.
+
+## Frequência
+
 O número de restaurantes em cada piso recebe o nome de frequência:
 
 ```
+frequência relativa = frequencia / número total de valores
 frequência relativa = número de valores incluídos em uma classe / número total de valores
 ```
  Em JS fica assim:
@@ -208,8 +212,23 @@ const median = (data) => {
   if (length === 0) return undefined;
   if (length % 2 === 0) {
     return (data[length / 2] + data[length / 2 - 1]) / 2;
-  } else {
-    return data[Math.floor(length / 2)];
   }
+
+  return data[Math.floor(length / 2)];
 };
 ```
+
+Onde o `data.sort` arranja os valores do menor para o maior, o `if (length % 2 === 0)` testa se o tamanho é par e retorna a
+média da soma dos valores do meio, se não for retorna apenas o valor do meio, uso Math.floor porque a divisão por 2 sempre será terá um decimal
+e como o *array* começa em 0 então tem que ser o arredondado para baixo.
+
+Exemplo:
+
+```
+5 = 5/2 = 2.5 = 2 => (0, 1, |2|, 3, 4)
+13 = 13/2 = 6.5 = 6 => (0, 1, 2, 3, 4, 5, |6|, 7, 8, 9, 10, 11, 12)
+```
+
+## Desvio padrão
+
+O desvio padrão é um indicador que mostra a diferença da média de cada valor nesse conjunto.
