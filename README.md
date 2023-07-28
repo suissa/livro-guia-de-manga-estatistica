@@ -246,3 +246,16 @@ const geometricAverage = (data) => Math.pow(data.reduce((a, b) => a * b), 1 / da
 ```js
 const harmonicAverage = (data) => data.length / data.reduce((a, b) => a + 1 / b, 0)
 ```
+
+A mediana é o valor central quando se coloca os valores em ordem do menor pro maior.
+
+```
+Equipe A
+38 - 73 - 86 - 90 - 111 - 124
+
+Equipe B
+71 - 84 - 85 - 89 - 90 - 103
+
+Equipe C
+59 - 70 - 77 - 88 - 95 - 229
+```
