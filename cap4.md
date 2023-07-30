@@ -43,5 +43,7 @@ Calcule a média de cada matéria:
 | 81,3 | 74,3 |
 
 
-Inglês |------------------------------|média 81,3------|90-------|<br>
-Japonês |-------------------------|média 74,3---------|90-------|
+Inglês |------------------------------|média 81,3------|90-------|  Luy<br>
+Japonês |-------------------------|média 74,3---------|90-------|   Yumi
+
+Compare a distância de cada nota da média. Isso vai mostrar a diferença entre  anota da Luy e da Yumi
