@@ -70,3 +70,11 @@ Compare a distância de cada nota da média. Isso vai mostrar a diferença entre
 | O | 37 | 53 |
 | P | 70 | 68 |
 | média | 53 | 53 |
+
+Qual é o desvio-padrão dessas disciplinas?
+
+Precisamos aplicar a fórmula `√∑(xi - x̅)²/n`
+
+| história | biologia |
+|----------|----------|
+| 22,7 | 18,3 |
