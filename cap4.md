@@ -83,3 +83,15 @@ Agora veremos sobre normalização também chamada de padronização.
 
 É um cálculo que usa uma distância de uma média e o desvio-padrão dos dados. 
 E torna mais fácil descobrir quanto vale uma nota.
+
+
+É assim que se calcula a padronização os dados padronizados recebem o nome de **valor-padrão**.
+
+```
+valor-padrão = (cada valor - média) / desvio-padrão
+```
+
+Podemos pensar no valor-padrão como o número de desvios-padrão que um valor está acima ou abaixo da média.
+Por exemplo, um valor-padrão de 1 significaque os resultados do teste estão 1 desvio-padrão (neste caso 22,7 pontos)
+acima da média da turma. E um valor-padrão de -1 significa que os resultados estão um desvio-padrão abaixo da média da classe.
+Vamos aplicar isso tudo ˙as notas em questão.
