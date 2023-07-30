@@ -95,3 +95,27 @@ Podemos pensar no valor-padrão como o número de desvios-padrão que um valor e
 Por exemplo, um valor-padrão de 1 significaque os resultados do teste estão 1 desvio-padrão (neste caso 22,7 pontos)
 acima da média da turma. E um valor-padrão de -1 significa que os resultados estão um desvio-padrão abaixo da média da classe.
 Vamos aplicar isso tudo ˙as notas em questão.
+
+
+| aluno | história | biologia |
+|-------|--------|---------|
+| Luy | 73 | 59 |
+| Yumi | 61 | 73 |
+| A | 14 | 47 |
+| B | 41 | 38 |
+| C | 49 | 63 |
+| D | 87 | 56 |
+| E | 69 | 15 |
+| F | 65 | 53 |
+| G | 36 | 80 |
+| H | 7 | 50 |
+| I | 53 | 41 |
+| J | 100 | 62 |
+| K | 57 | 44 |
+| L | 45 | 26 |
+| M | 56 | 91 |
+| N | 34 | 35 |
+| O | 37 | 53 |
+| P | 70 | 68 |
+| média | 53 | 53 |
+| desvio-padrão | 22,7 | 18,3 |
