@@ -46,4 +46,27 @@ Calcule a média de cada matéria:
 Inglês |------------------------------|média 81,3------|90-------|  Luy<br>
 Japonês |-------------------------|média 74,3---------|90-------|   Yumi
 
-Compare a distância de cada nota da média. Isso vai mostrar a diferença entre  anota da Luy e da Yumi
+Compare a distância de cada nota da média. Isso vai mostrar a diferença entre  anota da Luy e da Yumi.
+
+
+| aluno | história | biologia |
+|-------|--------|---------|
+| Luy | 73 | 59 |
+| Yumi | 61 | 73 |
+| A | 14 | 47 |
+| B | 41 | 38 |
+| C | 49 | 63 |
+| D | 87 | 56 |
+| E | 69 | 15 |
+| F | 65 | 53 |
+| G | 36 | 80 |
+| H | 7 | 50 |
+| I | 53 | 41 |
+| J | 100 | 62 |
+| K | 57 | 44 |
+| L | 45 | 26 |
+| M | 56 | 91 |
+| N | 34 | 35 |
+| O | 37 | 53 |
+| P | 70 | 68 |
+| média | 53 | 53 |
