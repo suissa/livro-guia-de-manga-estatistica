@@ -12,8 +12,3 @@ const zScore = (data) => {
 }
 
 module.exports = zScore
-
-
-const data = [10, 10, 10, 10, 10]
-
-console.log(zScore(data))
