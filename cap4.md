@@ -195,3 +195,7 @@ Vou explicar as características:
 1. Seja qual for o valor máximo de sua variável, a média aritmética do valor do desvio é sempre 50 e o desvio-padrão é sempre 10.
 2. Qualquer que sejam as unidades da variável usada, a média aritmética do valor do desvio é sempre 50 e o desvio-padrão é sempre 10.
 
+
+### Intterpetação do valor do desvio
+
+> valor do desvio = valor-padrão * 10 + 50 = (cada valor - média) / desvio-padrão * 10 + 50
