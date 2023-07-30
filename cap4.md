@@ -146,3 +146,26 @@ Vamos aplicar isso tudo ˙as notas em questão.
 
 
 ![Gráfico de linhas das notas e valores-padrão](https://github.com/suissa/livro-guia-de-manga-estatistica/blob/main/grafico-notas-e-valores-padronizados.jpg?raw=true)
+
+Percebem como os gráficos parecem iguais? *Essa adição foi minha, não existe no livro*
+
+
+> O que são esses números? 0,88 e 1,09
+
+Existem algumas características dos valores-padrão que são revelados pela padronização.
+
+1. Seja qual for o valor máximo de sua variável, a média aritmética do valor-padrão é sempre 0 e o devio-padrão é sempre 1.
+2. Qualquer que seja a unidade da variável em questão, a média aritmética do valor-padrão é sempre 0 e o desvio-padrão é sempre 1.
+
+Podemos comparar as notas de dois testes, com valores máximos de 100 e 200.
+
+É possível comparar valores com diferentes unidades, como passes e números de gol.
+
+Olhando os valores-padrão de 0,88 (história) e 1,09 (biologia), fica claro qual nota teve 
+um valor relativo maior em relação ˙a outra no mesmo teste.
+
+
+#### Valor do desvio
+
+Vamos passar para o valor do desvio. Trata-se de uma simples versão transformada do valor padrão.
+É baseada em 50 em vez de 0 e tem um descio padão de 1.
