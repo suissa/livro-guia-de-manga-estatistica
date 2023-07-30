@@ -10,5 +10,12 @@ Nesse episódio a Luy pede pra aprender sobre valor-padrão porque ela e uma ami
 
 
 Podemos pensar no valor-padrão como o número de desvios-padrão que um valor está acima ou abaixo da média. 
-Por exemplo, um valor padrão 1 significa que os resultados do teste estão 1 desvio-padrão acima da média
+Por exemplo, um valor padrão 1 significa que os resultados do teste estão 1 desvio-padrão acima da média.]
+
+Resultados iniciais dos testes (de 100)
+
+| aluno | inglês | japonês |
+|-------|--------|---------|
+| Luy | 90 | 71 |
+| Luy | 90 | 71 |
 
