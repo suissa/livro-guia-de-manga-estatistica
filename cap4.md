@@ -143,3 +143,6 @@ Vamos aplicar isso tudo ˙as notas em questão.
 | P | 70 | 68 | 0,75 | 0,82 |
 | média | 53 | 53 | 0 | 0 |
 | desvio-padrão | 22,7 | 18,3 | 1 | 1 |
+
+
+![Gráfico de linhas das notas e valores-padrão](https://github.com/suissa/livro-guia-de-manga-estatistica/blob/main/grafico-notas-e-valores-padronizados.jpg?raw=true)
