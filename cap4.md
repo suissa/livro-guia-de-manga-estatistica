@@ -78,3 +78,8 @@ Precisamos aplicar a fórmula `√∑(xi - x̅)²/n`
 | história | biologia |
 |----------|----------|
 | 22,7 | 18,3 |
+
+Agora veremos sobre normalização também chamada de padronização.
+
+É um cálculo que usa uma distância de uma média e o desvio-padrão dos dados. 
+E torna mais fácil descobrir quanto vale uma nota.
