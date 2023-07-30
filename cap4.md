@@ -169,3 +169,29 @@ um valor relativo maior em relação ˙a outra no mesmo teste.
 
 Vamos passar para o valor do desvio. Trata-se de uma simples versão transformada do valor padrão.
 É baseada em 50 em vez de 0 e tem um descio padão de 1.
+
+Aqui está a fórmula:
+
+
+> valor do desvio = valor-padrão * 10 + 50
+
+Aqui está os valores de desvio das meninas:
+
+> Luy (história) 0,88 * 10 + 50 = 58,8
+> Luy (biologia) 1,09 * 10 + 50 = 60,9
+
+Esses resultados são exatamente o que a escola informou.
+
+Vou explicar as características:
+
+##### valor-padrão
+
+1. Seja qual for o valor máximo de sua variável, a média aritmética do valor-padrão é sempre 0.
+2. Qualquer que seja a unidade da variável em questão, a média aritmética no valor-padrão é sempre 0 e o desvio-padrão é sempre.
+
+
+##### valor do desvio
+
+1. Seja qual for o valor máximo de sua variável, a média aritmética do valor do desvio é sempre 50 e o desvio-padrão é sempre 10.
+2. Qualquer que sejam as unidades da variável usada, a média aritmética do valor do desvio é sempre 50 e o desvio-padrão é sempre 10.
+
