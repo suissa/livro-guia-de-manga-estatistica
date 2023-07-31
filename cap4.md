@@ -199,3 +199,4 @@ Vou explicar as características:
 ### Intterpetação do valor do desvio
 
 > valor do desvio = valor-padrão * 10 + 50 = (cada valor - média) / desvio-padrão * 10 + 50
+
