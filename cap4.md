@@ -200,3 +200,16 @@ Vou explicar as características:
 
 > valor do desvio = valor-padrão * 10 + 50 = (cada valor - média) / desvio-padrão * 10 + 50
 
+#### Exercício
+
+Confira a seguir os resultados da corrida de 100m das meninas da escola.
+
+| Atleta | Corrida de 100m<br> (segundos)|
+|----|----|
+| A | 16,3|
+| B | 22,4|
+| C | 18,5|
+| D | 18,7|
+| E | 20,1|
+______________
+|Média | 19,2|
