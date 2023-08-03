@@ -4,7 +4,8 @@
   "description": "Exercícios do livro Guia Mangá de Estatística",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "preinstall": "node preinstall.js"
   },
   "author": "Suissa",
   "license": "WTFPL",
