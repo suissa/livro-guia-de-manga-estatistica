@@ -211,5 +211,18 @@ Confira a seguir os resultados da corrida de 100m das meninas da escola.
 | C | 18,5|
 | D | 18,7|
 | E | 20,1|
-______________
 |Média | 19,2|
+| Desvio-padrão | 2,01|
+
+1. Demonstre a média dos valores-padrão da corrida 100m é 0.
+2. Demonstre que o desvio-padrão do valor-padrão da corrida ed 100m é 1.
+
+
+##### Resposta
+
+1. Média do valor-padrão da corrida 100m
+
+```
+((16,3 - 19,2) / 2,01) + ((22,4 - 19,2) / 2,01)+ ((18,5 - 19,2) / 2,01) + ((18,7 - 19,2) / 2,01) + ((20,1 - 19,2) / 2,01)
+/ 5
+```
